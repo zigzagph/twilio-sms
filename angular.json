@@ -45,6 +45,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootswatch/dist/slate/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
